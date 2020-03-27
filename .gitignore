@@ -102,8 +102,6 @@ ENV/
 
 # exclude data from source control by default
 /data/
-/reports/
-/models/
 /.vscode/
 !./data/raw/.gitkeep
 .idea
