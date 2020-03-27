@@ -1,4 +1,4 @@
-from src.data import read_raw_data, preprocess_data, get_featues, get_label
+from data import read_raw_data, preprocess_data, get_featues, get_label
 
 
 def test_raw_shape():
